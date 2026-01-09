@@ -1,0 +1,5 @@
+1 - Copy this link
+2 - Paste in any browser
+3 - View the analysis
+
+https://app.powerbi.com/view?r=eyJrIjoiNDg1MzM0ODUtZjY3ZS00YzkzLWIwYzMtYjRmNzFjODM0ZjdjIiwidCI6IjA0ZDkyY2YwLWEyNjgtNGNmYi04MDY0LTkzZjMzYThiYTU3MCJ9
